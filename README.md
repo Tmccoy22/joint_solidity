@@ -67,13 +67,19 @@ This displays that the contract was compiled in RemixIED
 #### The following screen shots are showing the contract was able to deposit 1 ETH as WEI, 10 ETH as WEI, and 5 ETH to the addresses provided. 
 
 1 ETH added to account
+
+
 ![1added](./Exicution_Results/1.png)
 
 Showing 10ETH as WEI and the Balance
+
+
 ![10WEI](./Exicution_Results/10ethWei.png)
 ![11Balance](./Exicution_Results/11balance.png)
 
 Shows the 5 ETH and the total balance of 16ETH
+
+
 ![5ETH](./Exicution_Results/5eth.png)
 ![16Balance](./Exicution_Results/16balance.png)
 
@@ -81,10 +87,14 @@ Shows the 5 ETH and the total balance of 16ETH
 
 #### The following screen shots show the withdrawal transactions and the addresses to which they went and the amount in WEI
 
-Withdrew 5ETH into account 1. 
+Withdrew 5ETH into account 1
+
+
 ![5ETHout](./Exicution_Results/5with.png)
 
-Withdrew 10ETH into account 2 and final balance of the contract.
+Withdrew 10ETH into account 2 and final balance of the contract
+
+
 ![finalBalance](./Exicution_Results/finalBalance.png)
 
 ## Conclusion
